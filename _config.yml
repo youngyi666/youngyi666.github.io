@@ -7,7 +7,7 @@ description: "业精于勤荒于嬉，行成于思毁于随"
 keyword: "Blog, youngyi666的博客, 逸霖轩, 经济学"
 url: "http://youngyi666.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/youngyi666/youngyi666.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
