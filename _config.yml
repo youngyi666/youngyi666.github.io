@@ -23,7 +23,6 @@ zhihu_username:     youngyi666
 github_username:    youngyi666
 facebook_username:  
 jianshu_username:  6e31ac4ad6cd
-#twitter_username:   qiubaiying
 
 
 
@@ -57,7 +56,7 @@ kramdown:
 
 # 评论系统
 Disqus（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: youngyi666
 
 # Gitalk
 # gitalk:
